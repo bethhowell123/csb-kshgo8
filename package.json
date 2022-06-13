@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "magic-wombo",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start": "http-server --proxy http://localhost:8080? -a localhost -o /login"
+  },
+  "dependencies": {
+    "http-server": "13.0.2"
+  },
+  "keywords": []
+}
